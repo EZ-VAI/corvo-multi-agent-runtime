@@ -1,0 +1,1 @@
+ALTER TABLE product_brain ADD COLUMN IF NOT EXISTS fidelity jsonb;

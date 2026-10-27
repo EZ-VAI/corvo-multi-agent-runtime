@@ -1,0 +1,1 @@
+ALTER TABLE public.presenter_avatars ADD COLUMN scene_tag text DEFAULT null;

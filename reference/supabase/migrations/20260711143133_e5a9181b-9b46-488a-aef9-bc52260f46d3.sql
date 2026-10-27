@@ -1,0 +1,1 @@
+DELETE FROM public.film_client_inbox WHERE film_id = 'ui-qa-test-DELETEME';

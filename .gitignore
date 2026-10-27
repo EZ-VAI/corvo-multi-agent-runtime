@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+node_modules/
+*.log
+*.pem
+*.key
+*.p12
+*.pfx
+var/
+agent_sessions/
+blackboards/
+coverage/
+.DS_Store

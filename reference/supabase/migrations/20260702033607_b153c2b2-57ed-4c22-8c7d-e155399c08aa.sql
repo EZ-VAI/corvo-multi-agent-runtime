@@ -1,0 +1,1 @@
+alter table public.brand_skill add column if not exists target_age_range text;

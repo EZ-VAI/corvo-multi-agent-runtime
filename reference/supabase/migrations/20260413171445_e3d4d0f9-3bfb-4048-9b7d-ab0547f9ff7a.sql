@@ -1,0 +1,1 @@
+ALTER TABLE public.ad_drafts ADD COLUMN IF NOT EXISTS presenter_state jsonb DEFAULT NULL;
